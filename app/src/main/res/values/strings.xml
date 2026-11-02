@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">SystemUtility</string>
+    <string name="accessibility_service_description">Accessibility service for gesture automation and system control.</string>
+    <string name="btn_start_floating">Start Floating Controller</string>
+    <string name="btn_stop_floating">Stop Floating Controller</string>
+    <string name="btn_open_accessibility">Open Accessibility Settings</string>
+    <string name="btn_shizuku_status">Check Shizuku Binding</string>
+    <string name="btn_request_shizuku">Request Shizuku Permissions</string>
+    <string name="btn_execute_drag">Execute Simulated Drag</string>
+    <string name="status_shizuku_bound">Shizuku: Bound</string>
+    <string name="status_shizuku_unbound">Shizuku: Not Bound</string>
+    <string name="status_shizuku_checking">Shizuku: Checking...</string>
+    <string name="msg_floating_started">Floating controller started.</string>
+    <string name="msg_floating_stopped">Floating controller stopped.</string>
+    <string name="msg_drag_executed">Drag executed from (%.1f, %.1f) to (%.1f, %.1f).</string>
+    <string name="permission_rationale_overlay">This app needs to draw over other apps to show the floating controller.</string>
+    <string name="permission_rationale_accessibility">This app needs accessibility access to perform gesture automation.</string>
+</resources>
